@@ -1,0 +1,25 @@
+body{
+    background-color: #FFF2EC;
+}
+nav{
+    border-bottom: 2px;
+}
+.contato{
+    display: flex;
+    flex-direction: row;
+
+    .Perguntas{
+        width: 400px;
+        height: 300px;
+        border: 1px;
+        border-radius: 20px;
+    }
+
+    .Email{
+        width: 400px;
+        height: 300px;
+        border: 1px;
+        border-radius: 20px;
+    }
+    
+}
