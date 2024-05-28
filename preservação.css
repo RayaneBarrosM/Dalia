@@ -1,0 +1,15 @@
+body{
+    background-image: url(Gradient.png);
+}
+.Titulo{
+    margin: 498 222 498 0px;
+    display: flex;
+    align-items: center;
+}
+.Anteconcepcionais_Preservativos{
+    width: 540px;
+    height: 104px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-bottom: 42px;
+}
